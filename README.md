@@ -1,13 +1,11 @@
 # Mandarin-News-Feed
 daily read news &amp; learn words daily 
 
-[ For Chinese language learners]
-
 Learn Mandarin language by reading news daily. Also save new words and export to Anki decks.
 
-The app created using kivy, kivymd and many other open source projects entirely in python. View [app_license.json](Mandarin News Feed/app_license.json).
+The app created using kivy, kivymd and many other open source projects entirely in python. View [app_license.json](https://github.com/infinyte7/Mandarin-News-Feed/blob/master/Mandarin%20News%20Feed/app_license.json).
 
-Note: I have just created this app to learn kivy and kivymd.
+**Note: I have just created this app to learn kivy and kivymd.**
 
 # Demo
 
@@ -104,7 +102,7 @@ Mandarin News Feed
 <br>The MIT License
 
 ### Other third party licenses
-View [app_license.json](Mandarin News Feed/app_license.json)
+View [app_license.json](https://github.com/infinyte7/Mandarin-News-Feed/blob/master/Mandarin%20News%20Feed/app_license.json)
 
 ## Image Gallery
 |Normal Mode|Dark Mode|
