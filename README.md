@@ -8,8 +8,9 @@ The app created using kivy, kivymd and many other open source projects entirely 
 **Note: I have just created this app to learn kivy and kivymd.**
 
 # Demo
+|<img src="Images/demo.gif" height="450"></img>|<img src="Images/app_demo.gif" height="450"></img>|
+|--|--|
 
-<img src="Images/app_demo.gif" height="450"></img>
 
 # Features
 - Night mode
@@ -39,22 +40,22 @@ Download new chinese font and paste it inside ```Mandarin News Feed/fonts```, if
 Download cedict-json data from [github.com/infinyte7/cedict-json](https://github.com/infinyte7/cedict-json) and paste it in ```Mandarin News Feed/words_json_data```, if folder not present then create the folder. Note: In ```words_json_data``` only put ```.json``` files only.
 
 
-### Faq?
+# Faq?
 
-#### Why is it always crashing?
+## Why is it always crashing?
 The app still in alpha version. Every new updates will try to reduce the crash.
 Also, trying to remove this error.
 ```
 ReferenceError: weakly-referenced object no longer exists
 ```
 
-#### Where is all the files stored?
+## Where is all the files stored?
 The files stores in ```storage/emulated/0/Mandarin News Feed/``` folder.
 
-#### How can I delete the saved words from daily words and news words?
+## How can I delete the saved words from daily words and news words?
 Remove ```daily_words_data.txt``` and ```news_words_data.txt```, from ```Mandarin News Feed/wordslist``` folder.
 
-#### Why app size so big?
+## Why app size so big?
 All python modules required by the app is packed inside the app. So that app size is big.
 
 List of python modules
@@ -67,7 +68,7 @@ pycedict,pinyin,HanziConv,googletrans,httpcore,sniffio,httpx,h11,hstspreload,rfc
 hyperframe,hpack,immutables,asyncio,aiohttp,multidict,yarl,async-timeout,attrs,aiogtts
 ```
 
-## Build the project
+# Build the project
 All the code and required files are in ```Mandarin News Feed``` folder of this GitHub repository. 
 1. Fork this repository
 2. Install python, kivy and kivymd
@@ -101,10 +102,10 @@ Mandarin News Feed
 <br>Mani
 <br>The MIT License
 
-### Other third party licenses
+## Other third party licenses
 View [app_license.json](https://github.com/infinyte7/Mandarin-News-Feed/blob/master/Mandarin%20News%20Feed/app_license.json)
 
-## Image Gallery
+# Image Gallery
 |Normal Mode|Dark Mode|
 |--|--|
 |<img src="Images/gallery/main_screen.png" height="450"></img>|<img src="Images/gallery/main_screen_dark_mode.png" height="450"></img>|
