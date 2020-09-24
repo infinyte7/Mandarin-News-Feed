@@ -1,0 +1,117 @@
+[
+ {
+   "Name": "Mandarin News Feed",
+   "License": "The MIT License (MIT)",
+   "Author": "Mani (Infinyte7)",
+   "Source": "https://github.com/infinyte7/Mandarin-News-Feed"
+ },
+ {
+   "Name": "kivyMD",
+   "License": "The MIT License (MIT)",
+   "Author": "KivyMD Team and other contributors",
+   "Source": "https://github.com/kivymd/KivyMD"
+ },
+ {
+   "Name": "Kivy",
+   "License": "The MIT License (MIT)",
+   "Author": "Kivy Team and other contributors",
+   "Source": "https://github.com/kivy/kivy"
+ },
+ {
+   "Name": "jieba",
+   "License": "The MIT License (MIT)",
+   "Author": "Sun Junyi",
+   "Source": "https://github.com/fxsjy/jieba"
+ },
+ {
+   "Name": "pinyin",
+   "License": "The MIT License (MIT)",
+   "Author": "Lx Yu",
+   "Source": "https://github.com/lxyu/pinyin"
+ },
+ {
+   "Name": "newspaper",
+   "License": "The MIT License (MIT)",
+   "Author": "Lucas Ou-Yang",
+   "Source": "https://github.com/codelucas/newspaper"
+ },
+ {
+   "Name": "pycedict",
+   "License": "BSD 3-Clause",
+   "Author": "Jeremy Dillworth",
+   "Source": "https://github.com/jdillworth/pycedict"
+ },
+ {
+   "Name": "HanziConv",
+   "License": "Apache License 2.0",
+   "Author": "Bernard Yue",
+   "Source": "https://github.com/berniey/hanziconv"
+ },
+ {
+   "Name": "googletrans",
+   "License": "The MIT License (MIT)",
+   "Author": "SuHun Han",
+   "Source": "https://github.com/ssut/py-googletrans"
+ },
+ {
+   "Name": "xmltodict",
+   "License": "The MIT License (MIT)",
+   "Author": "Martin Blech and individual contributors",
+   "Source": "https://github.com/martinblech/xmltodict"
+ },
+ {
+   "Name": "python-certifi",
+   "License": "Mozilla Public License",
+   "Author": "",
+   "Source": "https://github.com/certifi/python-certifi"
+ },
+ {
+   "Name": "aiohttp",
+   "License": "Apache License 2.0",
+   "Author": "",
+   "Source": "https://github.com/aio-libs/aiohttp"
+ },
+ {
+   "Name": "aiogTTS",
+   "License": "The MIT License (MIT)",
+   "Author": "Helow19274",
+   "Source": "https://github.com/Helow19274/aiogTTS"
+ },
+ {
+   "Name": "genanki",
+   "License": "The MIT License (MIT)",
+   "Author": "Kerrick Staley",
+   "Source": "https://github.com/kerrickstaley/genanki"
+ },
+ {
+   "Name": "New HSK Word Lists",
+   "License": "Copyright alan@hskhsk.com",
+   "Author": "Alan Davies",
+   "Source": "http://www.hskhsk.com/word-lists.html"
+ },
+ {
+   "Name": "CC-CEDICT",
+   "License": "CC BY-SA 4.0",
+   "Author": "",
+   "Source": "https://cc-cedict.org/wiki/"
+ },
+ {
+   "Name": "cedict-json",
+   "License": "CC BY-SA 4.0",
+   "Author": "Mani (Infinyte7)",
+   "Source": "https://github.com/infinyte7/cedict-json"
+ },
+ {
+   "Name": "DroidSansFallback.ttf",
+   "License": "Apache License 2.0",
+   "Author": "The Android Open Source Project",
+   "Source": "https://source.android.com/setup/start/licenses"
+ },
+ {
+   "Name": "App Icon (newspaper.png)",
+   "License": "www.flaticon.com",
+   "Author": "Vectors Market",
+   "Source": "https://www.flaticon.com/free-icon/newspaper_306417"
+ }
+]
+
